@@ -7,6 +7,8 @@ let plainData = '';
 let packages = null;
 let conflictPackages = {};
 let isVisit = {};
+let maxDepth = 999, thisMaxDepth = -1;
+let linksInfo = [];
 
 readStream.on('data', (chunk) => {
     plainData += chunk;
@@ -20,46 +22,56 @@ readStream.on('end', () => {
         let newName = item.replace("node_modules\/", '');
         packages[newName] = parseDate.packages[item];
     });
+
     // 提取 packages 空字符串对象中的依赖信息
     let directDependencies = packages?.[""]?.["dependencies"];
     let resObj = {};
-    Object.keys(directDependencies).forEach((item) => {
+    let dependenciesArray = Object.keys(directDependencies);
+
+    // 递归分析依赖
+    dependenciesArray.forEach((item) => {
         isVisit = {};
-        resObj[item] = dfs(item);
+        resObj[item] = dfs(item, item);
     })
+
     fs.writeFile('./data/dependency.json', JSON.stringify(resObj), (err) => {
         if (err) console.error(err);
         else console.log("-- dependency success --");
     })
-    fs.writeFile('./data/conflict.json', JSON.stringify(conflictPackages), (err) => {
-        if (err) console.error(err);
-        else console.log("-- conflict success --");
-    })
+
+
+    // 生成节点相关信息
+    generateNodeInfo();
+
+    // 生成类别信息
+    generateCategories(dependenciesArray);
+
+    // 记录依赖冲突信息
+    generateConflict();
 })
 
 /**
  * 深度优先搜索，生成依赖关系图
- * @param {string} rootPackageName - 根包名
+ * @param {string} nowPackageName - 根包名
  * @param {number} depth - 深度
  * @param {string} prefix - 前缀
  * @returns {object} - 依赖关系对象
  */
-// TODO: 深度还没有用起来 
-function dfs(rootPackageName, depth = 0, prefix = 'NotFound') {
+function dfs(rootPackageName, nowPackageName, depth = 0, prefix = 'NotFound') {
+
     // 先查找前缀的node_modules目录中是否存在依赖
-    let payload = `${prefix}/node_modules/${rootPackageName}`;
+    let payload = `${prefix}/node_modules/${nowPackageName}`;
     let checkPackage = packages?.[payload];
     let packageName = payload;
 
-    // TODO: 依赖冲突没有包含根目录中包的信息.
     // 存在依赖冲突
     if (checkPackage) {
-        conflictPackages[rootPackageName] = conflictPackages[rootPackageName] || {};
-        conflictPackages[rootPackageName][checkPackage.version] = conflictPackages[rootPackageName][checkPackage.version] || [];
-        conflictPackages[rootPackageName][checkPackage.version].push(prefix);
+        conflictPackages[nowPackageName] = conflictPackages[nowPackageName] || {};
+        conflictPackages[nowPackageName][checkPackage.version] = conflictPackages[nowPackageName][checkPackage.version] || [];
+        conflictPackages[nowPackageName][checkPackage.version].push(prefix);
     } else {
-        checkPackage = packages?.[rootPackageName];
-        packageName = rootPackageName
+        checkPackage = packages?.[nowPackageName];
+        packageName = nowPackageName
     }
 
     // 处理循环引用的情况
@@ -72,18 +84,82 @@ function dfs(rootPackageName, depth = 0, prefix = 'NotFound') {
         }
     }
 
-    isVisit[packageName] = true;
+    isVisit[packageName] = true; // 标记已访问
+    packages[packageName].category = packages[packageName].category ? 'shared' : rootPackageName; // 标记属于哪个包
+    packages[packageName].depth = depth;    // 记录包的最小深度
+    thisMaxDepth = Math.max(thisMaxDepth, depth);
+    if (prefix !== 'NotFound')
+        linksInfo.push({
+            source: prefix,
+            target: packageName
+        })
+
     let { version, dependencies } = checkPackage || {};
-    let tmpObj = { packageName, version, dependencies: [] }
+    let tmpObj = { packageName, version, depth, dependencies: [] }
 
     // 递归检索依赖关系
     if (dependencies) {
-        Object.keys(dependencies).forEach((item) => {
-            let res = dfs(item, depth + 1, rootPackageName);
-            tmpObj.dependencies.push(res);
-        })
+        // 限制递归深度
+        if (depth + 1 === maxDepth) {
+            tmpObj.dependencies = '...';
+        } else if (depth + 1 < maxDepth) {
+            tmpObj.dependencies = Object.keys(dependencies).map((item) =>
+                dfs(rootPackageName, item, depth + 1, packageName)
+            );
+        }
     }
     return tmpObj;
+}
+/**
+ * 生成 Echarts 所需的 Node 数据格式
+ */
+function generateNodeInfo() {
+    let nodesInfo = Object.keys(packages).map((item) => {
+        let size = (thisMaxDepth - packages[item].depth) || 2;
+        if (item)
+            return {
+                name: item,
+                value: `@${packages[item].version}`,
+                category: packages[item].category || 'alone',
+                symbolSize: Math.pow(1.67, size)
+            }
+    })
+
+    fs.writeFile('./data/nodesInfo.json', JSON.stringify(nodesInfo.slice(1)), (err) => {
+        if (err) console.error(err);
+        else console.log("-- nodesInfo success --");
+    })
+
+    fs.writeFile('./data/linksInfo.json', JSON.stringify(linksInfo), (err) => {
+        if (err) console.error(err);
+        else console.log("-- linksInfo success --");
+    })
+}
+/**
+ * 生成 Echarts 所需的 categories
+ * @param {Array} keys - 包含直接依赖键名信息的数组
+ */
+function generateCategories(keys) {
+    let categories = keys.map((item) => { return { name: item } })
+    categories.push({ name: 'alone' });
+    categories.push({ name: 'shared' });
+    fs.writeFile('./data/categoriesInfo.json', JSON.stringify(categories), (err) => {
+        if (err) console.error(err);
+        else console.log("-- categoriesInfo success --");
+    })
+}
+
+/**
+ * 生成依赖冲突相关的信息.
+ */
+function generateConflict() {
+    Object.keys(conflictPackages).forEach((item) => {
+        conflictPackages[item].rootVersion = packages[item].version;
+    })
+    fs.writeFile('./data/conflict.json', JSON.stringify(conflictPackages), (err) => {
+        if (err) console.error(err);
+        else console.log("-- conflict success --");
+    })
 }
 
 readStream.on('error', (error) => {
