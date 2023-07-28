@@ -1,7 +1,7 @@
 const console = require('console');
 const fs = require('fs');
 // 写入依赖关系图到 test.md 文件
-const readStream = fs.createReadStream('package-lock.json', { encoding: 'utf8' });
+const readStream = fs.createReadStream('./data/package-lock.json', { encoding: 'utf8' });
 
 let plainData = '';
 let packages = null;
@@ -27,11 +27,11 @@ readStream.on('end', () => {
         isVisit = {};
         resObj[item] = dfs(item);
     })
-    fs.writeFile('dependency.json', JSON.stringify(resObj), (err) => {
+    fs.writeFile('./data/dependency.json', JSON.stringify(resObj), (err) => {
         if (err) console.error(err);
         else console.log("-- dependency success --");
     })
-    fs.writeFile('conflict.json', JSON.stringify(conflictPackages), (err) => {
+    fs.writeFile('./data/conflict.json', JSON.stringify(conflictPackages), (err) => {
         if (err) console.error(err);
         else console.log("-- conflict success --");
     })
@@ -44,12 +44,14 @@ readStream.on('end', () => {
  * @param {string} prefix - 前缀
  * @returns {object} - 依赖关系对象
  */
+// TODO: 深度还没有用起来 
 function dfs(rootPackageName, depth = 0, prefix = 'NotFound') {
     // 先查找前缀的node_modules目录中是否存在依赖
     let payload = `${prefix}/node_modules/${rootPackageName}`;
     let checkPackage = packages?.[payload];
     let packageName = payload;
 
+    // TODO: 依赖冲突没有包含根目录中包的信息.
     // 存在依赖冲突
     if (checkPackage) {
         conflictPackages[rootPackageName] = conflictPackages[rootPackageName] || {};
