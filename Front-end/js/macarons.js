@@ -42,7 +42,7 @@
             "#6f5553",
             "#c14089"
         ],
-        "backgroundColor": "rgba(0,0,0,0)",
+        "backgroundColor": "#fafafa",
         "textStyle": {},
         "title": {
             "textStyle": {
@@ -137,7 +137,7 @@
                 "borderColor": "#ccc"
             },
             "lineStyle": {
-                "width": 1,
+                "width": 2,
                 "color": "#aaaaaa"
             },
             "symbolSize": 3,
@@ -166,7 +166,7 @@
                 "#c14089"
             ],
             "label": {
-                "color": "#eeeeee"
+                "color": "#666"
             }
         },
         "map": {
@@ -361,7 +361,7 @@
         },
         "legend": {
             "textStyle": {
-                "color": "#333333"
+                "color": "#333"
             }
         },
         "tooltip": {
