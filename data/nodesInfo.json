@@ -1,0 +1,6164 @@
+[
+    {
+        "name": "@aashutoshrathi/word-wrap",
+        "value": "@1.2.6",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "@achrinza/node-ipc",
+        "value": "@9.2.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@alloc/quick-lru",
+        "value": "@5.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@ampproject/remapping",
+        "value": "@2.2.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/code-frame",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/compat-data",
+        "value": "@7.22.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/core",
+        "value": "@7.22.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/generator",
+        "value": "@7.22.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-annotate-as-pure",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-builder-binary-assignment-operator-visitor",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-compilation-targets",
+        "value": "@7.22.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-create-class-features-plugin",
+        "value": "@7.22.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-create-regexp-features-plugin",
+        "value": "@7.22.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-define-polyfill-provider",
+        "value": "@0.4.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-environment-visitor",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-function-name",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-hoist-variables",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-member-expression-to-functions",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-module-imports",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-module-transforms",
+        "value": "@7.22.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-optimise-call-expression",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-plugin-utils",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-remap-async-to-generator",
+        "value": "@7.22.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-replace-supers",
+        "value": "@7.22.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-simple-access",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-skip-transparent-expression-wrappers",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-split-export-declaration",
+        "value": "@7.22.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-string-parser",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-validator-identifier",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-validator-option",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helper-wrap-function",
+        "value": "@7.22.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/helpers",
+        "value": "@7.22.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/highlight",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/parser",
+        "value": "@7.22.7",
+        "category": "vue",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-proposal-class-properties",
+        "value": "@7.18.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-proposal-decorators",
+        "value": "@7.22.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-proposal-private-property-in-object",
+        "value": "@7.21.0-placeholder-for-preset-env.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-proposal-unicode-property-regex",
+        "value": "@7.18.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-async-generators",
+        "value": "@7.8.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-class-properties",
+        "value": "@7.12.13",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-class-static-block",
+        "value": "@7.14.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-decorators",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-dynamic-import",
+        "value": "@7.8.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-export-namespace-from",
+        "value": "@7.8.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-import-assertions",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-import-attributes",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-import-meta",
+        "value": "@7.10.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-json-strings",
+        "value": "@7.8.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-jsx",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-logical-assignment-operators",
+        "value": "@7.10.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-nullish-coalescing-operator",
+        "value": "@7.8.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-numeric-separator",
+        "value": "@7.10.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-object-rest-spread",
+        "value": "@7.8.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-optional-catch-binding",
+        "value": "@7.8.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-optional-chaining",
+        "value": "@7.8.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-private-property-in-object",
+        "value": "@7.14.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-top-level-await",
+        "value": "@7.14.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-syntax-unicode-sets-regex",
+        "value": "@7.18.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-arrow-functions",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-async-generator-functions",
+        "value": "@7.22.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-async-to-generator",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-block-scoped-functions",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-block-scoping",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-class-properties",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-class-static-block",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-classes",
+        "value": "@7.22.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-computed-properties",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-destructuring",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-dotall-regex",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-duplicate-keys",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-dynamic-import",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-exponentiation-operator",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-export-namespace-from",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-for-of",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-function-name",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-json-strings",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-literals",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-logical-assignment-operators",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-member-expression-literals",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-modules-amd",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-modules-commonjs",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-modules-systemjs",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-modules-umd",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-named-capturing-groups-regex",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-new-target",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-nullish-coalescing-operator",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-numeric-separator",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-object-rest-spread",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-object-super",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-optional-catch-binding",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-optional-chaining",
+        "value": "@7.22.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-parameters",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-private-methods",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-private-property-in-object",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-property-literals",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-regenerator",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-reserved-words",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-runtime",
+        "value": "@7.22.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-shorthand-properties",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-spread",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-sticky-regex",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-template-literals",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-typeof-symbol",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-unicode-escapes",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-unicode-property-regex",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-unicode-regex",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/plugin-transform-unicode-sets-regex",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/preset-env",
+        "value": "@7.22.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/preset-modules",
+        "value": "@0.1.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/regjsgen",
+        "value": "@0.8.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/runtime",
+        "value": "@7.22.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/template",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/traverse",
+        "value": "@7.22.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@babel/types",
+        "value": "@7.22.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@discoveryjs/json-ext",
+        "value": "@0.5.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@eslint-community/eslint-utils",
+        "value": "@4.4.0",
+        "category": "shared",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "@eslint-community/regexpp",
+        "value": "@4.5.1",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "@eslint/eslintrc",
+        "value": "@2.1.0",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "@eslint/eslintrc/node_modules/globals",
+        "value": "@13.20.0",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "@eslint/eslintrc/node_modules/type-fest",
+        "value": "@0.20.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@eslint/js",
+        "value": "@8.44.0",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "@hapi/hoek",
+        "value": "@9.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@hapi/topo",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@humanwhocodes/config-array",
+        "value": "@0.11.10",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "@humanwhocodes/module-importer",
+        "value": "@1.0.1",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "@humanwhocodes/object-schema",
+        "value": "@1.2.1",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "@jridgewell/gen-mapping",
+        "value": "@0.3.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@jridgewell/resolve-uri",
+        "value": "@3.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@jridgewell/set-array",
+        "value": "@1.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@jridgewell/source-map",
+        "value": "@0.3.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@jridgewell/sourcemap-codec",
+        "value": "@1.4.15",
+        "category": "vue",
+        "symbolSize": 4.657463
+    },
+    {
+        "name": "@jridgewell/trace-mapping",
+        "value": "@0.3.18",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@jridgewell/trace-mapping/node_modules/@jridgewell/sourcemap-codec",
+        "value": "@1.4.14",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@leichtgewicht/ip-codec",
+        "value": "@2.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@nicolo-ribaudo/semver-v6",
+        "value": "@6.3.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@node-ipc/js-queue",
+        "value": "@2.0.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@nodelib/fs.scandir",
+        "value": "@2.1.5",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "@nodelib/fs.stat",
+        "value": "@2.0.5",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "@nodelib/fs.walk",
+        "value": "@1.2.8",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "@polka/url",
+        "value": "@1.0.0-next.21",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@sideway/address",
+        "value": "@4.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@sideway/formula",
+        "value": "@3.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@sideway/pinpoint",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@soda/friendly-errors-webpack-plugin",
+        "value": "@1.8.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@soda/friendly-errors-webpack-plugin/node_modules/ansi-styles",
+        "value": "@4.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@soda/friendly-errors-webpack-plugin/node_modules/chalk",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@soda/friendly-errors-webpack-plugin/node_modules/color-convert",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@soda/friendly-errors-webpack-plugin/node_modules/color-name",
+        "value": "@1.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@soda/friendly-errors-webpack-plugin/node_modules/has-flag",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@soda/friendly-errors-webpack-plugin/node_modules/supports-color",
+        "value": "@7.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@soda/get-current-script",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@trysound/sax",
+        "value": "@0.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/body-parser",
+        "value": "@1.19.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/bonjour",
+        "value": "@3.5.10",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/connect",
+        "value": "@3.4.35",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/connect-history-api-fallback",
+        "value": "@1.5.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/eslint",
+        "value": "@8.44.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/eslint-scope",
+        "value": "@3.7.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/estree",
+        "value": "@1.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/express",
+        "value": "@4.17.17",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/express-serve-static-core",
+        "value": "@4.17.35",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/html-minifier-terser",
+        "value": "@6.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/http-errors",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/http-proxy",
+        "value": "@1.17.11",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/json-schema",
+        "value": "@7.0.12",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/json5",
+        "value": "@0.0.29",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/mime",
+        "value": "@1.3.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/minimist",
+        "value": "@1.2.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/node",
+        "value": "@20.4.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/normalize-package-data",
+        "value": "@2.4.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/parse-json",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/qs",
+        "value": "@6.9.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/range-parser",
+        "value": "@1.2.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/retry",
+        "value": "@0.12.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/send",
+        "value": "@0.17.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/serve-index",
+        "value": "@1.9.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/serve-static",
+        "value": "@1.15.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/sockjs",
+        "value": "@0.3.33",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@types/ws",
+        "value": "@8.5.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-helper-vue-jsx-merge-props",
+        "value": "@1.4.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-helper-vue-transform-on",
+        "value": "@1.1.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-plugin-jsx",
+        "value": "@1.1.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-plugin-transform-vue-jsx",
+        "value": "@1.4.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-plugin-transform-vue-jsx/node_modules/html-tags",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-preset-app",
+        "value": "@5.0.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-preset-app/node_modules/lru-cache",
+        "value": "@6.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-preset-app/node_modules/semver",
+        "value": "@7.5.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-preset-app/node_modules/yallist",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-preset-jsx",
+        "value": "@1.4.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-sugar-composition-api-inject-h",
+        "value": "@1.4.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-sugar-composition-api-render-instance",
+        "value": "@1.4.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-sugar-functional-vue",
+        "value": "@1.4.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-sugar-inject-h",
+        "value": "@1.4.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-sugar-v-model",
+        "value": "@1.4.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-sugar-v-model/node_modules/camelcase",
+        "value": "@5.3.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-sugar-v-model/node_modules/html-tags",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-sugar-v-on",
+        "value": "@1.4.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/babel-sugar-v-on/node_modules/camelcase",
+        "value": "@5.3.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-overlay",
+        "value": "@5.0.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-plugin-babel",
+        "value": "@5.0.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-plugin-router",
+        "value": "@5.0.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-plugin-vuex",
+        "value": "@5.0.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-service",
+        "value": "@5.0.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-shared-utils",
+        "value": "@5.0.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-shared-utils/node_modules/ansi-styles",
+        "value": "@4.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-shared-utils/node_modules/chalk",
+        "value": "@4.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-shared-utils/node_modules/color-convert",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-shared-utils/node_modules/color-name",
+        "value": "@1.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-shared-utils/node_modules/has-flag",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-shared-utils/node_modules/lru-cache",
+        "value": "@6.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-shared-utils/node_modules/semver",
+        "value": "@7.5.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-shared-utils/node_modules/supports-color",
+        "value": "@7.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/cli-shared-utils/node_modules/yallist",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/compiler-core",
+        "value": "@3.3.4",
+        "category": "vue",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "@vue/compiler-dom",
+        "value": "@3.3.4",
+        "category": "vue",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "@vue/compiler-sfc",
+        "value": "@3.3.4",
+        "category": "vue",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "@vue/compiler-ssr",
+        "value": "@3.3.4",
+        "category": "vue",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "@vue/component-compiler-utils",
+        "value": "@3.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/component-compiler-utils/node_modules/hash-sum",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/component-compiler-utils/node_modules/lru-cache",
+        "value": "@4.1.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/component-compiler-utils/node_modules/picocolors",
+        "value": "@0.2.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/component-compiler-utils/node_modules/postcss",
+        "value": "@7.0.39",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/component-compiler-utils/node_modules/yallist",
+        "value": "@2.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/devtools-api",
+        "value": "@6.5.0",
+        "category": "shared",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "@vue/reactivity",
+        "value": "@3.3.4",
+        "category": "vue",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "@vue/reactivity-transform",
+        "value": "@3.3.4",
+        "category": "vue",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "@vue/runtime-core",
+        "value": "@3.3.4",
+        "category": "vue",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "@vue/runtime-dom",
+        "value": "@3.3.4",
+        "category": "vue",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "@vue/server-renderer",
+        "value": "@3.3.4",
+        "category": "vue",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "@vue/shared",
+        "value": "@3.3.4",
+        "category": "vue",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "@vue/vue-loader-v15",
+        "value": "@15.10.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/vue-loader-v15/node_modules/hash-sum",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@vue/web-component-wrapper",
+        "value": "@1.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/ast",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/floating-point-hex-parser",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/helper-api-error",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/helper-buffer",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/helper-numbers",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/helper-wasm-bytecode",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/helper-wasm-section",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/ieee754",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/leb128",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/utf8",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/wasm-edit",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/wasm-gen",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/wasm-opt",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/wasm-parser",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@webassemblyjs/wast-printer",
+        "value": "@1.11.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@xtuc/ieee754",
+        "value": "@1.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "@xtuc/long",
+        "value": "@4.2.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "accepts",
+        "value": "@1.3.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "acorn",
+        "value": "@8.10.0",
+        "category": "shared",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "acorn-import-assertions",
+        "value": "@1.9.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "acorn-jsx",
+        "value": "@5.3.2",
+        "category": "shared",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "acorn-walk",
+        "value": "@8.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "address",
+        "value": "@1.2.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ajv",
+        "value": "@6.12.6",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "ajv-formats",
+        "value": "@2.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ajv-formats/node_modules/ajv",
+        "value": "@8.12.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ajv-formats/node_modules/json-schema-traverse",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ajv-keywords",
+        "value": "@3.5.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ansi-escapes",
+        "value": "@3.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ansi-html-community",
+        "value": "@0.0.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ansi-regex",
+        "value": "@5.0.1",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "ansi-styles",
+        "value": "@3.2.1",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "any-promise",
+        "value": "@1.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "anymatch",
+        "value": "@3.1.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "arch",
+        "value": "@2.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "arg",
+        "value": "@5.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "argparse",
+        "value": "@2.0.1",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "array-buffer-byte-length",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "array-flatten",
+        "value": "@2.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "array-includes",
+        "value": "@3.1.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "array-union",
+        "value": "@2.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "array.prototype.flat",
+        "value": "@1.3.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "array.prototype.flatmap",
+        "value": "@1.3.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "arraybuffer.prototype.slice",
+        "value": "@1.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "async",
+        "value": "@2.6.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "at-least-node",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "autoprefixer",
+        "value": "@10.4.14",
+        "category": "autoprefixer",
+        "symbolSize": 36.22557586593622
+    },
+    {
+        "name": "available-typed-arrays",
+        "value": "@1.0.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "babel-loader",
+        "value": "@8.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "babel-loader/node_modules/loader-utils",
+        "value": "@2.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "babel-plugin-dynamic-import-node",
+        "value": "@2.3.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "babel-plugin-polyfill-corejs2",
+        "value": "@0.4.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "babel-plugin-polyfill-corejs3",
+        "value": "@0.8.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "babel-plugin-polyfill-regenerator",
+        "value": "@0.5.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "balanced-match",
+        "value": "@1.0.2",
+        "category": "eslint",
+        "symbolSize": 4.657463
+    },
+    {
+        "name": "base64-js",
+        "value": "@1.5.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "batch",
+        "value": "@0.6.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "big.js",
+        "value": "@5.2.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "binary-extensions",
+        "value": "@2.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "bl",
+        "value": "@4.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "bluebird",
+        "value": "@3.7.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "body-parser",
+        "value": "@1.20.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "body-parser/node_modules/bytes",
+        "value": "@3.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "body-parser/node_modules/debug",
+        "value": "@2.6.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "body-parser/node_modules/ms",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "bonjour-service",
+        "value": "@1.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "boolbase",
+        "value": "@1.0.0",
+        "category": "eslint-plugin-vue",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "brace-expansion",
+        "value": "@1.1.11",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "braces",
+        "value": "@3.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "browserslist",
+        "value": "@4.21.9",
+        "category": "autoprefixer",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "buffer",
+        "value": "@5.7.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "buffer-from",
+        "value": "@1.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "bytes",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "call-bind",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "callsites",
+        "value": "@3.1.0",
+        "category": "eslint",
+        "symbolSize": 4.657463
+    },
+    {
+        "name": "camel-case",
+        "value": "@4.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "camelcase",
+        "value": "@6.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "camelcase-css",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "caniuse-api",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "caniuse-lite",
+        "value": "@1.0.30001516",
+        "category": "autoprefixer",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "case-sensitive-paths-webpack-plugin",
+        "value": "@2.4.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "chalk",
+        "value": "@2.4.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "chokidar",
+        "value": "@3.5.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "chokidar/node_modules/glob-parent",
+        "value": "@5.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "chrome-trace-event",
+        "value": "@1.0.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "clean-css",
+        "value": "@5.3.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cli-cursor",
+        "value": "@3.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cli-highlight",
+        "value": "@2.1.11",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cli-highlight/node_modules/ansi-styles",
+        "value": "@4.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cli-highlight/node_modules/chalk",
+        "value": "@4.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cli-highlight/node_modules/color-convert",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cli-highlight/node_modules/color-name",
+        "value": "@1.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cli-highlight/node_modules/has-flag",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cli-highlight/node_modules/supports-color",
+        "value": "@7.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cli-spinners",
+        "value": "@2.9.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "clipboardy",
+        "value": "@2.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cliui",
+        "value": "@7.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "clone",
+        "value": "@1.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "clone-deep",
+        "value": "@4.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "color-convert",
+        "value": "@1.9.3",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "color-name",
+        "value": "@1.1.3",
+        "category": "eslint",
+        "symbolSize": 4.657463
+    },
+    {
+        "name": "colord",
+        "value": "@2.9.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "colorette",
+        "value": "@2.0.20",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "commander",
+        "value": "@8.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "commondir",
+        "value": "@1.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "compressible",
+        "value": "@2.0.18",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "compression",
+        "value": "@1.7.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "compression/node_modules/debug",
+        "value": "@2.6.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "compression/node_modules/ms",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "compression/node_modules/safe-buffer",
+        "value": "@5.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "concat-map",
+        "value": "@0.0.1",
+        "category": "eslint",
+        "symbolSize": 4.657463
+    },
+    {
+        "name": "confusing-browser-globals",
+        "value": "@1.0.11",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "connect-history-api-fallback",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "consolidate",
+        "value": "@0.15.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "content-disposition",
+        "value": "@0.5.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "content-type",
+        "value": "@1.0.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "convert-source-map",
+        "value": "@1.9.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cookie",
+        "value": "@0.5.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cookie-signature",
+        "value": "@1.0.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "copy-anything",
+        "value": "@2.0.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "copy-webpack-plugin",
+        "value": "@9.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "copy-webpack-plugin/node_modules/schema-utils",
+        "value": "@3.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "core-js",
+        "value": "@3.31.1",
+        "category": "core-js",
+        "symbolSize": 36.22557586593622
+    },
+    {
+        "name": "core-js-compat",
+        "value": "@3.31.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "core-util-is",
+        "value": "@1.0.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cosmiconfig",
+        "value": "@7.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cross-spawn",
+        "value": "@6.0.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cross-spawn/node_modules/semver",
+        "value": "@5.7.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "css-declaration-sorter",
+        "value": "@6.4.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "css-loader",
+        "value": "@6.8.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "css-loader/node_modules/lru-cache",
+        "value": "@6.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "css-loader/node_modules/semver",
+        "value": "@7.5.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "css-loader/node_modules/yallist",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "css-minimizer-webpack-plugin",
+        "value": "@3.4.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "css-minimizer-webpack-plugin/node_modules/ajv",
+        "value": "@8.12.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "css-minimizer-webpack-plugin/node_modules/ajv-keywords",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "css-minimizer-webpack-plugin/node_modules/json-schema-traverse",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "css-minimizer-webpack-plugin/node_modules/schema-utils",
+        "value": "@4.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "css-select",
+        "value": "@4.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "css-tree",
+        "value": "@1.1.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "css-what",
+        "value": "@6.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cssesc",
+        "value": "@3.0.0",
+        "category": "eslint-plugin-vue",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "cssnano",
+        "value": "@5.1.15",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cssnano-preset-default",
+        "value": "@5.2.14",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "cssnano-utils",
+        "value": "@3.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "csso",
+        "value": "@4.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "csstype",
+        "value": "@3.1.2",
+        "category": "vue",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "debug",
+        "value": "@4.3.4",
+        "category": "shared",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "deep-is",
+        "value": "@0.1.4",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "deepmerge",
+        "value": "@1.5.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "default-gateway",
+        "value": "@6.0.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "default-gateway/node_modules/cross-spawn",
+        "value": "@7.0.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "default-gateway/node_modules/execa",
+        "value": "@5.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "default-gateway/node_modules/get-stream",
+        "value": "@6.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "default-gateway/node_modules/is-stream",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "default-gateway/node_modules/npm-run-path",
+        "value": "@4.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "default-gateway/node_modules/path-key",
+        "value": "@3.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "default-gateway/node_modules/shebang-command",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "default-gateway/node_modules/shebang-regex",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "default-gateway/node_modules/which",
+        "value": "@2.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "defaults",
+        "value": "@1.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "define-lazy-prop",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "define-properties",
+        "value": "@1.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "depd",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "destroy",
+        "value": "@1.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "detect-node",
+        "value": "@2.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "didyoumean",
+        "value": "@1.2.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "dir-glob",
+        "value": "@3.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "dlv",
+        "value": "@1.1.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "dns-equal",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "dns-packet",
+        "value": "@5.6.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "doctrine",
+        "value": "@3.0.0",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "dom-converter",
+        "value": "@0.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "dom-serializer",
+        "value": "@1.4.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "domelementtype",
+        "value": "@2.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "domhandler",
+        "value": "@4.3.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "domutils",
+        "value": "@2.8.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "dot-case",
+        "value": "@3.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "dotenv",
+        "value": "@10.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "dotenv-expand",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "duplexer",
+        "value": "@0.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "easy-stack",
+        "value": "@1.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ee-first",
+        "value": "@1.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "electron-to-chromium",
+        "value": "@1.4.464",
+        "category": "autoprefixer",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "emoji-regex",
+        "value": "@8.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "emojis-list",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "encodeurl",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "end-of-stream",
+        "value": "@1.4.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "enhanced-resolve",
+        "value": "@5.15.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "entities",
+        "value": "@2.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "errno",
+        "value": "@0.1.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "error-ex",
+        "value": "@1.3.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "error-stack-parser",
+        "value": "@2.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "es-abstract",
+        "value": "@1.22.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "es-module-lexer",
+        "value": "@1.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "es-set-tostringtag",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "es-shim-unscopables",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "es-to-primitive",
+        "value": "@1.2.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "escalade",
+        "value": "@3.1.1",
+        "category": "autoprefixer",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "escape-html",
+        "value": "@1.0.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "escape-string-regexp",
+        "value": "@1.0.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint",
+        "value": "@8.45.0",
+        "category": "eslint",
+        "symbolSize": 36.22557586593622
+    },
+    {
+        "name": "eslint-config-airbnb-base",
+        "value": "@15.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint-import-resolver-node",
+        "value": "@0.3.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint-import-resolver-node/node_modules/debug",
+        "value": "@3.2.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint-module-utils",
+        "value": "@2.8.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint-module-utils/node_modules/debug",
+        "value": "@3.2.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint-plugin-import",
+        "value": "@2.27.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint-plugin-import/node_modules/debug",
+        "value": "@3.2.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint-plugin-import/node_modules/doctrine",
+        "value": "@2.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint-plugin-vue",
+        "value": "@9.15.1",
+        "category": "eslint-plugin-vue",
+        "symbolSize": 36.22557586593622
+    },
+    {
+        "name": "eslint-plugin-vue/node_modules/lru-cache",
+        "value": "@6.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint-plugin-vue/node_modules/semver",
+        "value": "@7.5.4",
+        "category": "eslint-plugin-vue",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "eslint-plugin-vue/node_modules/yallist",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint-scope",
+        "value": "@5.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint-visitor-keys",
+        "value": "@3.4.1",
+        "category": "shared",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "eslint/node_modules/ansi-styles",
+        "value": "@4.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint/node_modules/chalk",
+        "value": "@4.1.2",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "eslint/node_modules/color-convert",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint/node_modules/color-name",
+        "value": "@1.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint/node_modules/cross-spawn",
+        "value": "@7.0.3",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "eslint/node_modules/escape-string-regexp",
+        "value": "@4.0.0",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "eslint/node_modules/eslint-scope",
+        "value": "@7.2.1",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "eslint/node_modules/estraverse",
+        "value": "@5.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint/node_modules/find-up",
+        "value": "@5.0.0",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "eslint/node_modules/globals",
+        "value": "@13.20.0",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "eslint/node_modules/has-flag",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint/node_modules/locate-path",
+        "value": "@6.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint/node_modules/p-limit",
+        "value": "@3.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint/node_modules/p-locate",
+        "value": "@5.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint/node_modules/path-key",
+        "value": "@3.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint/node_modules/shebang-command",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint/node_modules/shebang-regex",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint/node_modules/supports-color",
+        "value": "@7.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint/node_modules/type-fest",
+        "value": "@0.20.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eslint/node_modules/which",
+        "value": "@2.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "espree",
+        "value": "@9.6.1",
+        "category": "shared",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "esquery",
+        "value": "@1.5.0",
+        "category": "shared",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "esquery/node_modules/estraverse",
+        "value": "@5.3.0",
+        "category": "shared",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "esrecurse",
+        "value": "@4.3.0",
+        "category": "shared",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "esrecurse/node_modules/estraverse",
+        "value": "@5.3.0",
+        "category": "shared",
+        "symbolSize": 4.657463
+    },
+    {
+        "name": "estraverse",
+        "value": "@4.3.0",
+        "category": "shared",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "estree-walker",
+        "value": "@2.0.2",
+        "category": "vue",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "esutils",
+        "value": "@2.0.3",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "etag",
+        "value": "@1.8.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "event-pubsub",
+        "value": "@4.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "eventemitter3",
+        "value": "@4.0.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "events",
+        "value": "@3.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "execa",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "express",
+        "value": "@4.18.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "express/node_modules/array-flatten",
+        "value": "@1.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "express/node_modules/debug",
+        "value": "@2.6.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "express/node_modules/ms",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "fast-deep-equal",
+        "value": "@3.1.3",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "fast-glob",
+        "value": "@3.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "fast-glob/node_modules/glob-parent",
+        "value": "@5.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "fast-json-stable-stringify",
+        "value": "@2.1.0",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "fast-levenshtein",
+        "value": "@2.0.6",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "fastq",
+        "value": "@1.15.0",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "faye-websocket",
+        "value": "@0.11.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "figures",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "file-entry-cache",
+        "value": "@6.0.1",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "fill-range",
+        "value": "@7.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "finalhandler",
+        "value": "@1.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "finalhandler/node_modules/debug",
+        "value": "@2.6.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "finalhandler/node_modules/ms",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "find-cache-dir",
+        "value": "@3.3.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "find-up",
+        "value": "@4.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "flat-cache",
+        "value": "@3.0.4",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "flatted",
+        "value": "@3.2.7",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "follow-redirects",
+        "value": "@1.15.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "for-each",
+        "value": "@0.3.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "forwarded",
+        "value": "@0.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "fraction.js",
+        "value": "@4.2.0",
+        "category": "autoprefixer",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "fresh",
+        "value": "@0.5.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "fs-extra",
+        "value": "@9.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "fs-monkey",
+        "value": "@1.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "fs.realpath",
+        "value": "@1.0.0",
+        "category": "eslint",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "fsevents",
+        "value": "@2.3.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "function-bind",
+        "value": "@1.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "function.prototype.name",
+        "value": "@1.1.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "functions-have-names",
+        "value": "@1.2.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "gensync",
+        "value": "@1.0.0-beta.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "get-caller-file",
+        "value": "@2.0.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "get-intrinsic",
+        "value": "@1.2.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "get-stream",
+        "value": "@4.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "get-symbol-description",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "glob",
+        "value": "@7.2.3",
+        "category": "eslint",
+        "symbolSize": 4.657463
+    },
+    {
+        "name": "glob-parent",
+        "value": "@6.0.2",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "glob-to-regexp",
+        "value": "@0.4.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "globals",
+        "value": "@11.12.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "globalthis",
+        "value": "@1.0.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "globby",
+        "value": "@11.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "gopd",
+        "value": "@1.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "graceful-fs",
+        "value": "@4.2.11",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "graphemer",
+        "value": "@1.4.0",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "gzip-size",
+        "value": "@6.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "handle-thing",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "has",
+        "value": "@1.0.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "has-bigints",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "has-flag",
+        "value": "@3.0.0",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "has-property-descriptors",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "has-proto",
+        "value": "@1.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "has-symbols",
+        "value": "@1.0.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "has-tostringtag",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "hash-sum",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "he",
+        "value": "@1.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "highlight.js",
+        "value": "@10.7.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "hosted-git-info",
+        "value": "@2.8.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "hpack.js",
+        "value": "@2.1.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "hpack.js/node_modules/readable-stream",
+        "value": "@2.3.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "hpack.js/node_modules/safe-buffer",
+        "value": "@5.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "hpack.js/node_modules/string_decoder",
+        "value": "@1.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "html-entities",
+        "value": "@2.4.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "html-minifier-terser",
+        "value": "@6.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "html-tags",
+        "value": "@3.3.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "html-webpack-plugin",
+        "value": "@5.5.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "htmlparser2",
+        "value": "@6.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "http-deceiver",
+        "value": "@1.2.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "http-errors",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "http-parser-js",
+        "value": "@0.5.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "http-proxy",
+        "value": "@1.18.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "http-proxy-middleware",
+        "value": "@2.0.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "human-signals",
+        "value": "@2.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "iconv-lite",
+        "value": "@0.4.24",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "icss-utils",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ieee754",
+        "value": "@1.2.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ignore",
+        "value": "@5.2.4",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "image-size",
+        "value": "@0.5.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "import-fresh",
+        "value": "@3.3.0",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "imurmurhash",
+        "value": "@0.1.4",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "inflight",
+        "value": "@1.0.6",
+        "category": "eslint",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "inherits",
+        "value": "@2.0.4",
+        "category": "eslint",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "internal-slot",
+        "value": "@1.0.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ipaddr.js",
+        "value": "@2.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-array-buffer",
+        "value": "@3.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-arrayish",
+        "value": "@0.2.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-bigint",
+        "value": "@1.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-binary-path",
+        "value": "@2.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-boolean-object",
+        "value": "@1.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-callable",
+        "value": "@1.2.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-core-module",
+        "value": "@2.12.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-date-object",
+        "value": "@1.0.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-docker",
+        "value": "@2.2.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-extglob",
+        "value": "@2.1.1",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "is-file-esm",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-fullwidth-code-point",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-glob",
+        "value": "@4.0.3",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "is-interactive",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-negative-zero",
+        "value": "@2.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-number",
+        "value": "@7.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-number-object",
+        "value": "@1.0.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-path-inside",
+        "value": "@3.0.3",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "is-plain-obj",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-plain-object",
+        "value": "@2.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-regex",
+        "value": "@1.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-shared-array-buffer",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-stream",
+        "value": "@1.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-string",
+        "value": "@1.0.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-symbol",
+        "value": "@1.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-typed-array",
+        "value": "@1.1.12",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-unicode-supported",
+        "value": "@0.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-weakref",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-what",
+        "value": "@3.14.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "is-wsl",
+        "value": "@2.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "isarray",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "isexe",
+        "value": "@2.0.0",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "isobject",
+        "value": "@3.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "javascript-stringify",
+        "value": "@2.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "jest-worker",
+        "value": "@27.5.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "jest-worker/node_modules/has-flag",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "jest-worker/node_modules/supports-color",
+        "value": "@8.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "jiti",
+        "value": "@1.19.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "joi",
+        "value": "@17.9.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "js-message",
+        "value": "@1.0.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "js-tokens",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "js-yaml",
+        "value": "@4.1.0",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "jsesc",
+        "value": "@2.5.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "json-parse-better-errors",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "json-parse-even-better-errors",
+        "value": "@2.3.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "json-schema-traverse",
+        "value": "@0.4.1",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "json-stable-stringify-without-jsonify",
+        "value": "@1.0.1",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "json5",
+        "value": "@2.2.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "jsonfile",
+        "value": "@6.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "kind-of",
+        "value": "@6.0.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "klona",
+        "value": "@2.0.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "launch-editor",
+        "value": "@2.6.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "launch-editor-middleware",
+        "value": "@2.6.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "less",
+        "value": "@4.1.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "less-loader",
+        "value": "@8.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "less/node_modules/make-dir",
+        "value": "@2.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "less/node_modules/semver",
+        "value": "@5.7.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "levn",
+        "value": "@0.4.1",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "lilconfig",
+        "value": "@2.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "lines-and-columns",
+        "value": "@1.2.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "loader-runner",
+        "value": "@4.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "loader-utils",
+        "value": "@1.4.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "loader-utils/node_modules/json5",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "locate-path",
+        "value": "@5.0.0",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "lodash",
+        "value": "@4.17.21",
+        "category": "eslint-plugin-vue",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "lodash.debounce",
+        "value": "@4.0.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "lodash.defaultsdeep",
+        "value": "@4.6.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "lodash.kebabcase",
+        "value": "@4.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "lodash.mapvalues",
+        "value": "@4.6.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "lodash.memoize",
+        "value": "@4.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "lodash.merge",
+        "value": "@4.6.2",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "lodash.uniq",
+        "value": "@4.5.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-symbols",
+        "value": "@4.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-symbols/node_modules/ansi-styles",
+        "value": "@4.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-symbols/node_modules/chalk",
+        "value": "@4.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-symbols/node_modules/color-convert",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-symbols/node_modules/color-name",
+        "value": "@1.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-symbols/node_modules/has-flag",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-symbols/node_modules/supports-color",
+        "value": "@7.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-update",
+        "value": "@2.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-update/node_modules/ansi-regex",
+        "value": "@3.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-update/node_modules/cli-cursor",
+        "value": "@2.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-update/node_modules/is-fullwidth-code-point",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-update/node_modules/mimic-fn",
+        "value": "@1.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-update/node_modules/onetime",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-update/node_modules/restore-cursor",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-update/node_modules/string-width",
+        "value": "@2.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-update/node_modules/strip-ansi",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "log-update/node_modules/wrap-ansi",
+        "value": "@3.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "lower-case",
+        "value": "@2.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "lru-cache",
+        "value": "@5.1.1",
+        "category": "eslint-plugin-vue",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "magic-string",
+        "value": "@0.30.1",
+        "category": "vue",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "make-dir",
+        "value": "@3.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "mdn-data",
+        "value": "@2.0.14",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "media-typer",
+        "value": "@0.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "memfs",
+        "value": "@3.5.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "merge-descriptors",
+        "value": "@1.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "merge-source-map",
+        "value": "@1.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "merge-stream",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "merge2",
+        "value": "@1.4.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "methods",
+        "value": "@1.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "micromatch",
+        "value": "@4.0.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "mime",
+        "value": "@1.6.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "mime-db",
+        "value": "@1.52.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "mime-types",
+        "value": "@2.1.35",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "mimic-fn",
+        "value": "@2.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "mini-css-extract-plugin",
+        "value": "@2.7.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "mini-css-extract-plugin/node_modules/ajv",
+        "value": "@8.12.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "mini-css-extract-plugin/node_modules/ajv-keywords",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "mini-css-extract-plugin/node_modules/json-schema-traverse",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "mini-css-extract-plugin/node_modules/schema-utils",
+        "value": "@4.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "minimalistic-assert",
+        "value": "@1.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "minimatch",
+        "value": "@3.1.2",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "minimist",
+        "value": "@1.2.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "minipass",
+        "value": "@3.3.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "minipass/node_modules/yallist",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "mkdirp",
+        "value": "@0.5.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "module-alias",
+        "value": "@2.2.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "mrmime",
+        "value": "@1.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ms",
+        "value": "@2.1.2",
+        "category": "shared",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "multicast-dns",
+        "value": "@7.2.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "mz",
+        "value": "@2.7.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "nanoid",
+        "value": "@3.3.6",
+        "category": "shared",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "natural-compare",
+        "value": "@1.4.0",
+        "category": "shared",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "needle",
+        "value": "@3.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "needle/node_modules/debug",
+        "value": "@3.2.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "needle/node_modules/iconv-lite",
+        "value": "@0.6.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "negotiator",
+        "value": "@0.6.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "neo-async",
+        "value": "@2.6.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "nice-try",
+        "value": "@1.0.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "no-case",
+        "value": "@3.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "node-fetch",
+        "value": "@2.6.12",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "node-forge",
+        "value": "@1.3.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "node-releases",
+        "value": "@2.0.13",
+        "category": "autoprefixer",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "normalize-package-data",
+        "value": "@2.5.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "normalize-package-data/node_modules/semver",
+        "value": "@5.7.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "normalize-path",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "normalize-range",
+        "value": "@0.1.2",
+        "category": "autoprefixer",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "normalize-url",
+        "value": "@6.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "npm-run-path",
+        "value": "@2.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "nth-check",
+        "value": "@2.1.1",
+        "category": "eslint-plugin-vue",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "object-assign",
+        "value": "@4.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "object-hash",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "object-inspect",
+        "value": "@1.12.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "object-keys",
+        "value": "@1.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "object.assign",
+        "value": "@4.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "object.entries",
+        "value": "@1.1.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "object.values",
+        "value": "@1.1.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "obuf",
+        "value": "@1.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "on-finished",
+        "value": "@2.4.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "on-headers",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "once",
+        "value": "@1.4.0",
+        "category": "eslint",
+        "symbolSize": 1.67
+    },
+    {
+        "name": "onetime",
+        "value": "@5.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "open",
+        "value": "@8.4.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "opener",
+        "value": "@1.5.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "optionator",
+        "value": "@0.9.3",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "ora",
+        "value": "@5.4.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ora/node_modules/ansi-styles",
+        "value": "@4.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ora/node_modules/chalk",
+        "value": "@4.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ora/node_modules/color-convert",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ora/node_modules/color-name",
+        "value": "@1.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ora/node_modules/has-flag",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ora/node_modules/supports-color",
+        "value": "@7.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "p-finally",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "p-limit",
+        "value": "@2.3.0",
+        "category": "eslint",
+        "symbolSize": 4.657463
+    },
+    {
+        "name": "p-locate",
+        "value": "@4.1.0",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "p-retry",
+        "value": "@4.6.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "p-try",
+        "value": "@2.2.0",
+        "category": "eslint",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "param-case",
+        "value": "@3.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "parent-module",
+        "value": "@1.0.1",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "parse-json",
+        "value": "@5.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "parse-node-version",
+        "value": "@1.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "parse5",
+        "value": "@5.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "parse5-htmlparser2-tree-adapter",
+        "value": "@6.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "parse5-htmlparser2-tree-adapter/node_modules/parse5",
+        "value": "@6.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "parseurl",
+        "value": "@1.3.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "pascal-case",
+        "value": "@3.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "path-exists",
+        "value": "@4.0.0",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "path-is-absolute",
+        "value": "@1.0.1",
+        "category": "eslint",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "path-key",
+        "value": "@2.0.1",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "path-parse",
+        "value": "@1.0.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "path-to-regexp",
+        "value": "@0.1.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "path-type",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "picocolors",
+        "value": "@1.0.0",
+        "category": "shared",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "picomatch",
+        "value": "@2.3.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "pify",
+        "value": "@4.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "pirates",
+        "value": "@4.0.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "pkg-dir",
+        "value": "@4.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "portfinder",
+        "value": "@1.0.32",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "portfinder/node_modules/debug",
+        "value": "@3.2.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss",
+        "value": "@8.4.26",
+        "category": "shared",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "postcss-calc",
+        "value": "@8.2.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-colormin",
+        "value": "@5.3.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-convert-values",
+        "value": "@5.1.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-discard-comments",
+        "value": "@5.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-discard-duplicates",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-discard-empty",
+        "value": "@5.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-discard-overridden",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-import",
+        "value": "@15.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-js",
+        "value": "@4.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-load-config",
+        "value": "@4.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-load-config/node_modules/yaml",
+        "value": "@2.3.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-loader",
+        "value": "@6.2.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-loader/node_modules/lru-cache",
+        "value": "@6.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-loader/node_modules/semver",
+        "value": "@7.5.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-loader/node_modules/yallist",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-merge-longhand",
+        "value": "@5.1.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-merge-rules",
+        "value": "@5.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-minify-font-values",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-minify-gradients",
+        "value": "@5.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-minify-params",
+        "value": "@5.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-minify-selectors",
+        "value": "@5.2.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-modules-extract-imports",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-modules-local-by-default",
+        "value": "@4.0.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-modules-scope",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-modules-values",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-nested",
+        "value": "@6.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-normalize-charset",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-normalize-display-values",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-normalize-positions",
+        "value": "@5.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-normalize-repeat-style",
+        "value": "@5.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-normalize-string",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-normalize-timing-functions",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-normalize-unicode",
+        "value": "@5.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-normalize-url",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-normalize-whitespace",
+        "value": "@5.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-ordered-values",
+        "value": "@5.1.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-reduce-initial",
+        "value": "@5.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-reduce-transforms",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-selector-parser",
+        "value": "@6.0.13",
+        "category": "eslint-plugin-vue",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "postcss-svgo",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-unique-selectors",
+        "value": "@5.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "postcss-value-parser",
+        "value": "@4.2.0",
+        "category": "autoprefixer",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "prelude-ls",
+        "value": "@1.2.1",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "prettier",
+        "value": "@2.8.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "pretty-error",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "process-nextick-args",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "progress-webpack-plugin",
+        "value": "@1.0.16",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "proxy-addr",
+        "value": "@2.0.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "proxy-addr/node_modules/ipaddr.js",
+        "value": "@1.9.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "prr",
+        "value": "@1.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "pseudomap",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "pump",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "punycode",
+        "value": "@2.3.0",
+        "category": "eslint",
+        "symbolSize": 4.657463
+    },
+    {
+        "name": "qs",
+        "value": "@6.11.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "queue-microtask",
+        "value": "@1.2.3",
+        "category": "eslint",
+        "symbolSize": 4.657463
+    },
+    {
+        "name": "randombytes",
+        "value": "@2.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "range-parser",
+        "value": "@1.2.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "raw-body",
+        "value": "@2.5.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "raw-body/node_modules/bytes",
+        "value": "@3.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "read-cache",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "read-cache/node_modules/pify",
+        "value": "@2.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "read-pkg",
+        "value": "@5.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "read-pkg-up",
+        "value": "@7.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "read-pkg-up/node_modules/type-fest",
+        "value": "@0.8.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "readable-stream",
+        "value": "@3.6.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "readdirp",
+        "value": "@3.6.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "regenerate",
+        "value": "@1.4.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "regenerate-unicode-properties",
+        "value": "@10.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "regenerator-runtime",
+        "value": "@0.13.11",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "regenerator-transform",
+        "value": "@0.15.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "regexp.prototype.flags",
+        "value": "@1.5.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "regexpu-core",
+        "value": "@5.3.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "regjsparser",
+        "value": "@0.9.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "regjsparser/node_modules/jsesc",
+        "value": "@0.5.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "relateurl",
+        "value": "@0.2.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "renderkid",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "require-directory",
+        "value": "@2.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "require-from-string",
+        "value": "@2.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "requires-port",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "resolve",
+        "value": "@1.22.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "resolve-from",
+        "value": "@4.0.0",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "restore-cursor",
+        "value": "@3.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "retry",
+        "value": "@0.13.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "reusify",
+        "value": "@1.0.4",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "rimraf",
+        "value": "@3.0.2",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "run-parallel",
+        "value": "@1.2.0",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "safe-array-concat",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "safe-array-concat/node_modules/isarray",
+        "value": "@2.0.5",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "safe-buffer",
+        "value": "@5.2.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "safe-regex-test",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "safer-buffer",
+        "value": "@2.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "sax",
+        "value": "@1.2.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "schema-utils",
+        "value": "@2.7.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "select-hose",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "selfsigned",
+        "value": "@2.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "semver",
+        "value": "@6.3.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "send",
+        "value": "@0.18.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "send/node_modules/debug",
+        "value": "@2.6.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "send/node_modules/debug/node_modules/ms",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "send/node_modules/ms",
+        "value": "@2.1.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "serialize-javascript",
+        "value": "@6.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "serve-index",
+        "value": "@1.9.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "serve-index/node_modules/debug",
+        "value": "@2.6.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "serve-index/node_modules/depd",
+        "value": "@1.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "serve-index/node_modules/http-errors",
+        "value": "@1.6.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "serve-index/node_modules/inherits",
+        "value": "@2.0.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "serve-index/node_modules/ms",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "serve-index/node_modules/setprototypeof",
+        "value": "@1.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "serve-index/node_modules/statuses",
+        "value": "@1.5.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "serve-static",
+        "value": "@1.15.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "setprototypeof",
+        "value": "@1.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "shallow-clone",
+        "value": "@3.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "shebang-command",
+        "value": "@1.2.0",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "shebang-regex",
+        "value": "@1.0.0",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "shell-quote",
+        "value": "@1.8.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "side-channel",
+        "value": "@1.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "signal-exit",
+        "value": "@3.0.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "sirv",
+        "value": "@1.0.19",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "slash",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "sockjs",
+        "value": "@0.3.24",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "source-map",
+        "value": "@0.6.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "source-map-js",
+        "value": "@1.0.2",
+        "category": "shared",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "source-map-support",
+        "value": "@0.5.21",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "spdx-correct",
+        "value": "@3.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "spdx-exceptions",
+        "value": "@2.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "spdx-expression-parse",
+        "value": "@3.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "spdx-license-ids",
+        "value": "@3.0.13",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "spdy",
+        "value": "@4.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "spdy-transport",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ssri",
+        "value": "@8.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "stable",
+        "value": "@0.1.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "stackframe",
+        "value": "@1.3.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "statuses",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "string_decoder",
+        "value": "@1.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "string-width",
+        "value": "@4.2.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "string.prototype.trim",
+        "value": "@1.2.7",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "string.prototype.trimend",
+        "value": "@1.0.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "string.prototype.trimstart",
+        "value": "@1.0.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "strip-ansi",
+        "value": "@6.0.1",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "strip-bom",
+        "value": "@3.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "strip-eof",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "strip-final-newline",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "strip-json-comments",
+        "value": "@3.1.1",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "stylehacks",
+        "value": "@5.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "sucrase",
+        "value": "@3.33.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "sucrase/node_modules/commander",
+        "value": "@4.1.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "sucrase/node_modules/glob",
+        "value": "@7.1.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "supports-color",
+        "value": "@5.5.0",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "supports-preserve-symlinks-flag",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "svg-tags",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "svgo",
+        "value": "@2.8.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "svgo/node_modules/commander",
+        "value": "@7.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "tailwindcss",
+        "value": "@3.3.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "tapable",
+        "value": "@2.2.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "terser",
+        "value": "@5.19.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "terser-webpack-plugin",
+        "value": "@5.3.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "terser-webpack-plugin/node_modules/schema-utils",
+        "value": "@3.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "terser/node_modules/commander",
+        "value": "@2.20.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "text-table",
+        "value": "@0.2.0",
+        "category": "eslint",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "thenify",
+        "value": "@3.3.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "thenify-all",
+        "value": "@1.6.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "thread-loader",
+        "value": "@3.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "thread-loader/node_modules/loader-utils",
+        "value": "@2.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "thread-loader/node_modules/schema-utils",
+        "value": "@3.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "thunky",
+        "value": "@1.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "to-fast-properties",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "to-regex-range",
+        "value": "@5.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "toidentifier",
+        "value": "@1.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "totalist",
+        "value": "@1.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "tr46",
+        "value": "@0.0.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ts-interface-checker",
+        "value": "@0.1.13",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "tsconfig-paths",
+        "value": "@3.14.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "tsconfig-paths/node_modules/json5",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "tslib",
+        "value": "@2.6.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "type-check",
+        "value": "@0.4.0",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "type-fest",
+        "value": "@0.6.0",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "type-is",
+        "value": "@1.6.18",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "typed-array-buffer",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "typed-array-byte-length",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "typed-array-byte-offset",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "typed-array-length",
+        "value": "@1.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "unbox-primitive",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "unicode-canonical-property-names-ecmascript",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "unicode-match-property-ecmascript",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "unicode-match-property-value-ecmascript",
+        "value": "@2.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "unicode-property-aliases-ecmascript",
+        "value": "@2.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "universalify",
+        "value": "@2.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "unpipe",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "update-browserslist-db",
+        "value": "@1.0.11",
+        "category": "autoprefixer",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "uri-js",
+        "value": "@4.4.1",
+        "category": "eslint",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "util-deprecate",
+        "value": "@1.0.2",
+        "category": "eslint-plugin-vue",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "utila",
+        "value": "@0.4.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "utils-merge",
+        "value": "@1.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "uuid",
+        "value": "@8.3.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "validate-npm-package-license",
+        "value": "@3.0.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vary",
+        "value": "@1.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vue",
+        "value": "@3.3.4",
+        "category": "vue",
+        "symbolSize": 36.22557586593622
+    },
+    {
+        "name": "vue-eslint-parser",
+        "value": "@9.3.1",
+        "category": "eslint-plugin-vue",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "vue-eslint-parser/node_modules/eslint-scope",
+        "value": "@7.2.1",
+        "category": "eslint-plugin-vue",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "vue-eslint-parser/node_modules/estraverse",
+        "value": "@5.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vue-eslint-parser/node_modules/lru-cache",
+        "value": "@6.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vue-eslint-parser/node_modules/semver",
+        "value": "@7.5.4",
+        "category": "eslint-plugin-vue",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "vue-eslint-parser/node_modules/yallist",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vue-hot-reload-api",
+        "value": "@2.3.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vue-loader",
+        "value": "@17.2.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vue-loader/node_modules/ansi-styles",
+        "value": "@4.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vue-loader/node_modules/chalk",
+        "value": "@4.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vue-loader/node_modules/color-convert",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vue-loader/node_modules/color-name",
+        "value": "@1.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vue-loader/node_modules/has-flag",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vue-loader/node_modules/supports-color",
+        "value": "@7.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vue-router",
+        "value": "@4.2.4",
+        "category": "vue-router",
+        "symbolSize": 36.22557586593622
+    },
+    {
+        "name": "vue-style-loader",
+        "value": "@4.1.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vue-style-loader/node_modules/hash-sum",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vue-template-es2015-compiler",
+        "value": "@1.9.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "vuex",
+        "value": "@4.1.0",
+        "category": "vuex",
+        "symbolSize": 36.22557586593622
+    },
+    {
+        "name": "watchpack",
+        "value": "@2.4.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "wbuf",
+        "value": "@1.7.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "wcwidth",
+        "value": "@1.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webidl-conversions",
+        "value": "@3.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack",
+        "value": "@5.88.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-bundle-analyzer",
+        "value": "@4.9.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-bundle-analyzer/node_modules/ansi-styles",
+        "value": "@4.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-bundle-analyzer/node_modules/chalk",
+        "value": "@4.1.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-bundle-analyzer/node_modules/color-convert",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-bundle-analyzer/node_modules/color-name",
+        "value": "@1.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-bundle-analyzer/node_modules/commander",
+        "value": "@7.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-bundle-analyzer/node_modules/has-flag",
+        "value": "@4.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-bundle-analyzer/node_modules/supports-color",
+        "value": "@7.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-chain",
+        "value": "@6.5.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-dev-middleware",
+        "value": "@5.3.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-dev-middleware/node_modules/ajv",
+        "value": "@8.12.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-dev-middleware/node_modules/ajv-keywords",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-dev-middleware/node_modules/json-schema-traverse",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-dev-middleware/node_modules/schema-utils",
+        "value": "@4.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-dev-server",
+        "value": "@4.15.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-dev-server/node_modules/ajv",
+        "value": "@8.12.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-dev-server/node_modules/ajv-keywords",
+        "value": "@5.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-dev-server/node_modules/json-schema-traverse",
+        "value": "@1.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-dev-server/node_modules/schema-utils",
+        "value": "@4.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-dev-server/node_modules/ws",
+        "value": "@8.13.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-merge",
+        "value": "@5.9.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-sources",
+        "value": "@3.2.3",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack-virtual-modules",
+        "value": "@0.4.6",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "webpack/node_modules/schema-utils",
+        "value": "@3.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "websocket-driver",
+        "value": "@0.7.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "websocket-extensions",
+        "value": "@0.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "whatwg-fetch",
+        "value": "@3.6.16",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "whatwg-url",
+        "value": "@5.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "which",
+        "value": "@1.3.1",
+        "category": "eslint",
+        "symbolSize": 12.989198560699997
+    },
+    {
+        "name": "which-boxed-primitive",
+        "value": "@1.0.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "which-typed-array",
+        "value": "@1.1.11",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "wildcard",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "wrap-ansi",
+        "value": "@7.0.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "wrap-ansi/node_modules/ansi-styles",
+        "value": "@4.3.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "wrap-ansi/node_modules/color-convert",
+        "value": "@2.0.1",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "wrap-ansi/node_modules/color-name",
+        "value": "@1.1.4",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "wrappy",
+        "value": "@1.0.2",
+        "category": "eslint",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "ws",
+        "value": "@7.5.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "xml-name-validator",
+        "value": "@4.0.0",
+        "category": "eslint-plugin-vue",
+        "symbolSize": 21.691961596368994
+    },
+    {
+        "name": "y18n",
+        "value": "@5.0.8",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "yallist",
+        "value": "@3.1.1",
+        "category": "eslint-plugin-vue",
+        "symbolSize": 7.7779632099999985
+    },
+    {
+        "name": "yaml",
+        "value": "@1.10.2",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "yargs",
+        "value": "@16.2.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "yargs-parser",
+        "value": "@20.2.9",
+        "category": "alone",
+        "symbolSize": 2.7889
+    },
+    {
+        "name": "yocto-queue",
+        "value": "@0.1.0",
+        "category": "alone",
+        "symbolSize": 2.7889
+    }
+]
