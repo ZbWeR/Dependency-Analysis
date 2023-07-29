@@ -3,17 +3,19 @@ const fs = require('fs');
 // 写入依赖关系图到 test.md 文件
 const readStream = fs.createReadStream('./data/package-lock.json', { encoding: 'utf8' });
 
-let plainData = '';
-let packages = null;
-let conflictPackages = {};
-let isVisit = {};
+let plainData = '';         // 存储流式读入的数据
+let packages = null;        // 所有依赖包信息
+let conflictPackages = {};  // 冲突包信息
+let isVisit = {};           // 访问标记,用于处理循环依赖
+let linksInfo = [];         // 记录依赖关系
 let maxDepth = 999, thisMaxDepth = -1;
-let linksInfo = [];
 
+// 流式读入数据
 readStream.on('data', (chunk) => {
     plainData += chunk;
 })
 
+// 读入完毕处理数据
 readStream.on('end', () => {
     // 数据预处理: 解析 json 数据并提取所需信息
     const parseDate = JSON.parse(plainData);
@@ -25,20 +27,10 @@ readStream.on('end', () => {
 
     // 提取 packages 空字符串对象中的依赖信息
     let directDependencies = packages?.[""]?.["dependencies"];
-    let resObj = {};
     let dependenciesArray = Object.keys(directDependencies);
 
     // 递归分析依赖
-    dependenciesArray.forEach((item) => {
-        isVisit = {};
-        resObj[item] = dfs(item, item);
-    })
-
-    fs.writeFile('./data/dependency.json', JSON.stringify(resObj), (err) => {
-        if (err) console.error(err);
-        else console.log("-- dependency success --");
-    })
-
+    generateAnalysis(dependenciesArray);
 
     // 生成节点相关信息
     generateNodeInfo();
@@ -49,6 +41,22 @@ readStream.on('end', () => {
     // 记录依赖冲突信息
     generateConflict();
 })
+
+/**
+ * 递归分析依赖信息
+ * @param {Array} keys - 包含直接依赖键名信息的数组
+ */
+function generateAnalysis(keys) {
+    let resObj = {};
+    keys.forEach((item) => {
+        isVisit = {};
+        resObj[item] = dfs(item, item);
+    })
+    fs.writeFile('./data/dependency.json', JSON.stringify(resObj), (err) => {
+        if (err) console.error(err);
+        else console.log("-- dependency success --");
+    })
+}
 
 /**
  * 深度优先搜索，生成依赖关系图
@@ -87,7 +95,9 @@ function dfs(rootPackageName, nowPackageName, depth = 0, prefix = 'NotFound') {
     isVisit[packageName] = true; // 标记已访问
     packages[packageName].category = packages[packageName].category ? 'shared' : rootPackageName; // 标记属于哪个包
     packages[packageName].depth = depth;    // 记录包的最小深度
-    thisMaxDepth = Math.max(thisMaxDepth, depth);
+    thisMaxDepth = Math.max(thisMaxDepth, depth); // 统计最大深度,便于计算可视化后的图形大小
+
+    // 记录依赖关系
     if (prefix !== 'NotFound')
         linksInfo.push({
             source: prefix,
@@ -111,7 +121,7 @@ function dfs(rootPackageName, nowPackageName, depth = 0, prefix = 'NotFound') {
     return tmpObj;
 }
 /**
- * 生成 Echarts 所需的 Node 数据格式
+ * 生成 Echarts 所需的 Nodes 与 Links 数据格式
  */
 function generateNodeInfo() {
     let nodesInfo = Object.keys(packages).map((item) => {
