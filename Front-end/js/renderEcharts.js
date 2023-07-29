@@ -1,5 +1,4 @@
 var myChart = echarts.init(document.getElementById('main'), 'macarons');
-// var myChart = echarts.init(document.getElementById('main'));
 
 /**
  * 从不同的 URL 获取数据，并返回一个包含节点、链接和类别信息的对象。
@@ -26,31 +25,41 @@ async function getData() {
     }
 }
 
+/* TODO: 
+1. 关于冗余依赖包的处理,有没有更好的可视化方案
+2. active 状态切换 (待商榷)
+    a.点击单个依赖图例时,仅显示自身与shared;
+    b.当只有自身与shared显示时,再次点击显示全部.
+3. 冲突依赖以什么样的形式展示.
+4. 根包之间的依赖问题 postCSS 和 vue
+*/
 async function renderEcharts() {
+    // 加载数据与loading动画
     myChart.showLoading();
     const { nodes, links, categories } = await getData();
     myChart.hideLoading();
 
+    // 处理节点 label 的显示情况
     nodes.forEach(function (node) {
         node.label = {
             show: node.symbolSize > 3,
-            formatter: function (params) {
+            formatter: (params) => {
                 var label = params.name;
                 var maxLength = 6;
-                if (label.length > maxLength)
-                    label = label = label.substring(0, maxLength) + '...';
-                return label;
+                return label.length > maxLength ? `${label.substring(0, maxLength)}...` : label;
             }
         };
     });
 
     option = {
+        // 图标标题
         title: {
             text: 'Packages Dependencies',
             subtext: 'npm Analysis Tool',
             top: '5%',
             left: '5%',
         },
+        // 提示框
         tooltip: {
             show: true,
             trigger: 'item',
@@ -64,15 +73,14 @@ async function renderEcharts() {
                 }
             }
         },
+        // 图例
         legend: [
             {
                 top: 'middle',
                 left: '5%',
                 icon: 'circle',
                 orient: 'vertical',
-                data: categories.map(function (a) {
-                    return a.name;
-                })
+                data: categories.map((a) => a.name)
             }
         ],
         animationDuration: 1500,
@@ -120,6 +128,29 @@ async function renderEcharts() {
     };
 
     myChart.setOption(option);
+    // 监听图例切换事件
+    myChart.on('legendselectchanged', (e) => {
+        handleLegendChange(e, categories.length)
+    })
+}
+
+/**
+ * 处理点击图例后切换显示数据的逻辑
+ * @param {object} events - 点击图例触发的事件 
+ * @param {number} totalNum - 图例总数 
+ */
+function handleLegendChange(events, totalNum) {
+    const clickName = events.name;
+    const selectedInfo = Object.keys(events.selected).filter(item => events.selected[item]);
+    const index = selectedInfo.findIndex(item => item === clickName);
+    // 仅剩 shared 与 自身
+    if (selectedInfo.length === 1 && selectedInfo[0] === 'shared' && index === -1)
+        myChart.dispatchAction({ type: "legendAllSelect" });
+    // 全选状态下选择自身
+    else if (index === -1 && selectedInfo.length === totalNum - 1) {
+        myChart.dispatchAction({ type: 'legendUnSelect', name: 'shared' });
+        myChart.dispatchAction({ type: "legendInverseSelect" });
+    }
 }
 
 renderEcharts();
