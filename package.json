@@ -1,0 +1,22 @@
+{
+  "name": "@zbwer/analysis-tool",
+  "version": "1.0.7",
+  "description": "Analyze the dependency relationships in package-lock.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "zbwer-cli": "index.js"
+  },
+  "author": "zbwer",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.0.0",
+    "commander": "^11.0.0"
+  },
+  "peerDependencies": {
+    "express": "^4.18.2"
+  }
+}
