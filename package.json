@@ -1,6 +1,6 @@
 {
   "name": "@zbwer/analysis-tool",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Analyze the dependency relationships in package-lock.json",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "bin": {
     "zbwer-cli": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZbWeR/Dependency-Analysis.git"
   },
   "author": "zbwer",
   "license": "MIT",
