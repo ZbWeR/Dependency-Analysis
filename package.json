@@ -1,6 +1,6 @@
 {
   "name": "@zbwer/analysis-tool",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Analyze the dependency relationships in package-lock.json",
   "main": "index.js",
   "scripts": {
