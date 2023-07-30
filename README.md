@@ -8,7 +8,7 @@
 
 ## 🎨 Demo 展示
 
-![](https://raw.githubusercontent.com/ZbWeR/Image-hosting/master/Dependency-Analysis/demo-preview.png?token=GHSAT0AAAAAABWIG2LO2QJ5QWUSL6MC5TT2ZGGDL2Q)
+![](https://e1wijx.us.aircodecdn.com/demo-preview.1690731191281_zihoj7txb4a.png)
 
 ## 📝 目录结构
 
