@@ -172,7 +172,7 @@ async function generateNodeInfo() {
                 name: item,
                 value: `@${packages[item].version}`,
                 category: packages[item].category || 'alone',
-                symbolSize: Math.pow(1.67, size)
+                symbolSize: Math.pow(1.414, size)
             }
     })
     await promiseWriteFile('nodesInfo', nodesInfo.slice(1));
@@ -194,7 +194,7 @@ async function generateCategories(keys) {
  */
 async function generateConflict() {
     Object.keys(conflictPackages).forEach((item) => {
-        conflictPackages[item].rootVersion = packages[item].version;
+        conflictPackages[item].rootVersion = packages[item]?.version;
     })
     await promiseWriteFile('conflict', conflictPackages);
 }
